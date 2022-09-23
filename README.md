@@ -4,7 +4,7 @@ Just another "hello-world" app, but with [SvelteKit](https://kit.svelte.dev).
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-<img src="./screenshot.png" />
+<img width="400px" src="./screenshot.png" />
 
 ## Developing
 
